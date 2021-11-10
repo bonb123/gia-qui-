@@ -1,0 +1,109 @@
+img{
+   width:  100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: none;
+    text-decoration: none;
+}
+.lkb{
+    background:#334756 ;
+}
+.lkb{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+}
+.lienket{      
+    background-color: white;
+    color: black;
+    border: 2px solid #3F0071;
+    border-radius:5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 36px;
+    font-family: "Lucida Sans Unicode";
+    margin: 0px 20px;
+}
+.lienket:hover{
+    background-color: #3D2C8D;
+}
+
+.lienket:active{
+    background-color: green;
+    border-color: green;}
+}
+.hinh{
+    width: 100px;
+} 
+.hinh ul{
+    position: relative;
+}
+.nd{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    font-size: 60px;
+    list-style: none;
+    color: red;
+}
+.nd2{
+    position: absolute;
+    left:400px;
+    top:200px;
+    font-size: 30px;
+    color:violet;
+    margin: 10px 10px;
+}
+.nd3{
+    position: absolute;
+    left: 400px;
+    top:300px;
+    font-size: 30px;
+    color:blue;
+    margin: 10px 10px;
+}
+.nd4{
+    position: absolute;
+    left: 400px;
+    top:400px;
+    font-size: 30px;
+    color:darkslateblue;
+    margin: 10px 10px;
+}
+.nd5{
+    position: absolute;
+    left: 400px;
+    top:500px;
+    font-size: 30px;
+    color:darkgray;
+    margin: 10px 10px;
+}
+.nd6{
+    position: absolute;
+    left: 400px;
+    top:600px;
+    font-size: 30px;
+    margin: 10px 10px;
+}
+.nd5:hover{
+    background:lightcyan ;
+}
+.nd2:hover{
+    background:mediumblue ;
+}
+.nd3:hover{
+    background:skyblue ;
+}
+.nd4:hover{
+    background:yellowgreen ;
+}
+.nd6:hover{
+    background:violet ;
+}
+
+
+
