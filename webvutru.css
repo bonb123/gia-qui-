@@ -35,9 +35,8 @@ img{
 .lienket:active{
     background-color: green;
     border-color: green;}
-}
 .hinh{
-    width: 100px;
+    width: 100%;
 } 
 .hinh ul{
     position: relative;
