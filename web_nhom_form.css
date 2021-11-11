@@ -13,6 +13,7 @@ body{
 .navbar{
     display: flex;
     margin-top: 70px;
+    margin-left: 280px;
 }
 .menu1{
     position: relative;
@@ -94,11 +95,11 @@ body{
 .form-register{
     display: flex;
     margin-top: 50px;
-    margin-left: 120px;
+    margin-left: 385px;
     margin-right: 30px;
     margin-bottom: 50px;
-    width: 800px;
-    height: 600px;
+    width: 950px;
+    height: 650px;
     box-shadow: 10px 20px 18px 30px rgba(0,0,0,0.2);
 }
 .form{
@@ -107,7 +108,7 @@ body{
     background-color: rgb(255,255,255,0.8); 
 }
 .form-title{
-    font-size: 32px;
+    font-size: 42px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(170, 20, 240);
     margin-left: 50px;
@@ -120,21 +121,23 @@ body{
     color: rgb(170, 20, 240);
 }
 .first-name{
-    font-size: 14px;
+    font-size: 20px;
     margin-left: 50px;
     text-transform: uppercase;
+    font-weight: 600;
 }
 .second-name{
-    font-size: 14px;
+    font-size: 20px;
     margin-left: 130px;
     text-transform: uppercase;
+    font-weight: 600;
 }
 .form-input{
     display: flex;
 }
 .input-text1{
     width: 175px;
-    font-size: 17px;
+    font-size: 20px;
     margin-top: 20px;
     margin-left: 50px;
     border: none;
@@ -143,8 +146,8 @@ body{
     background-color: transparent;
 }
 .input-text2{
-    width: 185px;
-    font-size: 17px;
+    width: 230px;
+    font-size: 20px;
     margin-top: 20px;
     margin-left: 40px;
     border: none;
@@ -154,14 +157,15 @@ body{
 }
 .form-more-info{
     margin-top: 50px;
-    font-size: 14px;
+    font-size: 20px;
     text-transform: uppercase;
     margin-left: 50px;
     color : rgb(170, 20, 240);
+    font-weight: 600;
 }
 .input-text3{
-    width: 400px;
-    font-size: 17px;
+    width: 445px;
+    font-size: 20px;
     margin-top: 20px;
     margin-left: 50px;
     border: none;
